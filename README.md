@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Hubot here, i jast change some words in the article.
+Hubot here, i just change some words in the article.
